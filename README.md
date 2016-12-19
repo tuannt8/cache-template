@@ -10,3 +10,7 @@ Certianly we want an optimal data strucutre that stores all the frequently-refer
 A mesh framework that is distributed for public.
 
 # How to use mesh cache
+We only need one file: `cache.hpp`. The api of the cache include
+
+- get_cache
+- invalid cache
